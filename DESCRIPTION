@@ -1,5 +1,5 @@
 Package: paqueteprueba
-Title: What the Package Does (One Line, Title Case)
+Title: Paquete para practicar en la clase de Programacion II
 Version: 0.0.0.9000
 Authors@R: 
     person("Yanina", "Bellini Saibene", , "yabellini@gmail.com", role = c("aut", "cre"),
